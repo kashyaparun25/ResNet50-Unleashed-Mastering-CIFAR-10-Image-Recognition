@@ -16,7 +16,7 @@ This repository is the home for the final project of EE-627, presenting an in-de
 8. [Appendix](#appendix)
 
 ## Introduction
-This project utilizes the power of the ResNet50 model to significantly advance the accuracy and efficiency of image classification tasks on the CIFAR-10 dataset. More details can be found in [slide 3 of the presentation](Final Presentation_Updated.pdf).
+This project utilizes the power of the ResNet50 model to significantly advance the accuracy and efficiency of image classification tasks on the CIFAR-10 dataset. More details can be found in [slide 3 of the presentation]([Final Presentation_Updated.pdf](https://github.com/kashyaparun25/ResNet50-Unleashed-Mastering-CIFAR-10-Image-Recognition/blob/36673c36ca38102aa92be5e3e00e68e9e00a7496/Final%20Presentation_Updated.pdf)).
 
 ## Dataset Description
 The CIFAR-10 dataset comprises 60,000 color images spread across ten distinct classes. For more information, refer to [slide 4 of the presentation](Final Presentation_Updated.pdf) or visit [Kaggle CIFAR-10 dataset](https://www.kaggle.com/c/cifar-10/data).
