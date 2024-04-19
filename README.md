@@ -16,19 +16,19 @@ This repository is the home for the final project of EE-627, presenting an in-de
 8. [Appendix](#appendix)
 
 ## Introduction
-This project utilizes the power of the ResNet50 model to significantly advance the accuracy and efficiency of image classification tasks on the CIFAR-10 dataset. More details can be found in [slide 3 of the presentation](/path/to/presentation.pdf).
+This project utilizes the power of the ResNet50 model to significantly advance the accuracy and efficiency of image classification tasks on the CIFAR-10 dataset. More details can be found in [slide 3 of the presentation](Final Presentation_Updated.pdf).
 
 ## Dataset Description
-The CIFAR-10 dataset comprises 60,000 color images spread across ten distinct classes. For more information, refer to [slide 4 of the presentation](/path/to/presentation.pdf) or visit [Kaggle CIFAR-10 dataset](https://www.kaggle.com/c/cifar-10/data).
+The CIFAR-10 dataset comprises 60,000 color images spread across ten distinct classes. For more information, refer to [slide 4 of the presentation](Final Presentation_Updated.pdf) or visit [Kaggle CIFAR-10 dataset](https://www.kaggle.com/c/cifar-10/data).
 
 ## Implementation
-Detailed steps on how the dataset was imported, preprocessed, and used to train the models can be found from [slides 5 to 7 of the presentation](/path/to/presentation.pdf).
+Detailed steps on how the dataset was imported, preprocessed, and used to train the models can be found from [slides 5 to 7 of the presentation](Final Presentation_Updated.pdf).
 
 ## Model Comparison
-Performance metrics and validation for each model are detailed in the presentation, with an epoch-wise performance overview and test results summarized in [slide 15](/path/to/presentation.pdf).
+Performance metrics and validation for each model are detailed in the presentation, with an epoch-wise performance overview and test results summarized in [slide 15](Final Presentation_Updated.pdf).
 
 ## Challenges and Considerations
-The project outlines specific challenges encountered during implementation, such as GPU constraints and training limitations. Refer to [slide 16 of the presentation](/path/to/presentation.pdf) for a detailed discussion.
+The project outlines specific challenges encountered during implementation, such as GPU constraints and training limitations. Refer to [slide 16 of the presentation](Final Presentation_Updated.pdf) for a detailed discussion.
 
 ## Conclusion
 The project's key accomplishments, insights, and future directions are presented in [slide 17 of the presentation](/path/to/presentation.pdf).
