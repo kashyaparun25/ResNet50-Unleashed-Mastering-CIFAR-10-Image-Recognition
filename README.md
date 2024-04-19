@@ -46,7 +46,7 @@ Our work is supported by the following references, which can be found in [slide 
 Additional resources and ancillary content related to the project are available in the repository's [appendix section](/path/to/appendix).
 
 ## Contact
-For any inquiries, please reach out to Hebbani Venkatasheshaiah Arun Kashyap at hkashyap1@stevens.edu.
+For any inquiries, please reach out to Arun Kashyap at hkashyap1@stevens.edu.
 
 ---
 Stevens Institute of Technology, Dept. of Mathematical Science, Hoboken, US
