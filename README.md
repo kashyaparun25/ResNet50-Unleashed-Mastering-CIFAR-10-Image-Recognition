@@ -2,6 +2,22 @@
 
 This repository is the home for the final project of EE-627, presenting an in-depth exploration into the use of the ResNet50 deep learning model for object recognition within the CIFAR-10 dataset.
 
+# Project: ResNet50 Unleashed: Mastering CIFAR-10 Image Recognition
+
+## Installation
+
+To set up your environment to run this code, ensure you have Python 3 installed along with the following packages:
+- TensorFlow
+- Keras
+- NumPy
+- Matplotlib
+
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+
+
 ## Contents
 1. [Introduction](#introduction)
 2. [Dataset Description](#dataset-description)
@@ -44,6 +60,25 @@ Our work is supported by the following references, which can be found in [slide 
 
 ## Appendix
 Additional resources and ancillary content related to the project are available in the repository's [appendix section](/path/to/appendix).
+
+## Results
+
+- **Neural Network:**
+  - Accuracy: 42.17%
+  - Loss: 1.64
+- **CNN:**
+  - Accuracy: 74.11%
+  - Loss: 0.73
+- **CNN with ResNet50:**
+  - Accuracy: 93.08%
+  - Loss: 0.32
+
+Visual comparisons and detailed performance metrics are available in the results directory.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
+
 
 ## Contact
 For any inquiries, please reach out to Arun Kashyap at hkashyap1@stevens.edu.
