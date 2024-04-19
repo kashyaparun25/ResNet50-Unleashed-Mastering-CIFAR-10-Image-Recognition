@@ -2,7 +2,9 @@
 
 This repository is the home for the final project of EE-627, presenting an in-depth exploration into the use of the ResNet50 deep learning model for object recognition within the CIFAR-10 dataset.
 
-# Project: ResNet50 Unleashed: Mastering CIFAR-10 Image Recognition
+[```bash
+git clone [kashyaparun25](https://github.com/kashyaparun25/ResNet50-Unleashed-Mastering-CIFAR-10-Image-Recognition)]
+
 
 ## Installation
 
@@ -14,8 +16,6 @@ To set up your environment to run this code, ensure you have Python 3 installed 
 
 Clone the repository to your local machine:
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
 
 
 ## Contents
