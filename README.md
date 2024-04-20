@@ -80,5 +80,6 @@ For any inquiries, please reach out to Arun Kashyap at hkashyap1@stevens.edu.
 Stevens Institute of Technology, Dept. of Mathematical Science, Hoboken, US
 
 Clone the repository to your local machine:
+
 ```bash
-git clone [kashyaparun25](https://github.com/kashyaparun25/ResNet50-Unleashed-Mastering-CIFAR-10-Image-Recognition)
+git clone [kashyaparun25](https://github.com/kashyaparun25/ResNet50-Unleashed-Mastering-CIFAR-10-Image-Recognition).
