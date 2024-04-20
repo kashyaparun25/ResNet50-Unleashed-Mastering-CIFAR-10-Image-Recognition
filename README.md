@@ -11,10 +11,6 @@ To set up your environment to run this code, ensure you have Python 3 installed 
 - NumPy
 - Matplotlib
 
-Clone the repository to your local machine:
-
-
-
 ## Contents
 1. [Introduction](#introduction)
 2. [Dataset Description](#dataset-description)
@@ -83,6 +79,6 @@ For any inquiries, please reach out to Arun Kashyap at hkashyap1@stevens.edu.
 ---
 Stevens Institute of Technology, Dept. of Mathematical Science, Hoboken, US
 
-
+Clone the repository to your local machine:
 ```bash
 git clone [kashyaparun25](https://github.com/kashyaparun25/ResNet50-Unleashed-Mastering-CIFAR-10-Image-Recognition)
